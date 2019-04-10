@@ -9,6 +9,7 @@
 
 <android.support.design.widget.TabLayout
     android:layout_width="match_parent"
+    android:background="#C7C2C2"
     android:layout_height="?attr/actionBarSize"
     android:id="@+id/tabLayout">
 
